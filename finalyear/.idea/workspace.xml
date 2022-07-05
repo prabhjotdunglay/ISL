@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4a17966-c46c-4b2d-a03f-0ccb5419a910" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/blue-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/darkblue-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/default-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/grey-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/light-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/light2-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/img/accordion-plusminus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/img/bg-opacity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/img/bg-white-lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/img/bg-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout/img/datatable-row-openclose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/blue-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/dark-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/default-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/grey-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/light-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/custom-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/blue-hoki-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/blue-steel-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/default-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/green-haze-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/purple-plum-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/purple-studio-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/red-intense-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/red-sunglo-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/yellow-crusta-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/yellow-orange-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/custom-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/themes/default-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/themes/light-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout5/css/custom-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout5/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout6/css/custom-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout6/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/layout7/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/about-us-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/blog-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/coming-soon-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/error-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/image-crop-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/inbox-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/invoice-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/lock-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/lock2-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login-soft-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login2-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login3-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/news-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/portfolio-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/pricing-table-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/profile-old-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/profile-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/search-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/tasks-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/timeline-old-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/timeline-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/todo-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/admin/pages/media/pages/earth-rtl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/css/components-md-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/css/components-rounded-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/css/components-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/css/components.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/css/plugins-md-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/css/plugins-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/exporting/amexport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/exporting/canvg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/exporting/filesaver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/exporting/jspdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/exporting/jspdf.plugin.addimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/exporting/rgbcolor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/images/_dragIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/images/_dragIconBlack.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/images/_dragIconH.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amcharts/images/_dragIconHBlack.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/ammap/exporting/amexport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/ammap/exporting/canvg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/ammap/exporting/filesaver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/ammap/exporting/jspdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/ammap/exporting/jspdf.plugin.addimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/ammap/exporting/rgbcolor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amstockcharts/exporting/amexport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amstockcharts/exporting/canvg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amstockcharts/exporting/filesaver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amstockcharts/exporting/jspdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amstockcharts/exporting/jspdf.plugin.addimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/amcharts/amstockcharts/exporting/rgbcolor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-datepaginator/bootstrap-datepaginator-rtl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-datetimepicker/css/datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-editable/bootstrap-editable/css/bootstrap-editable-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-select/bootstrap-select-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-select/bootstrap-select-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-switch/css/bootstrap-switch-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-toastr/toastr-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-toastr/toastr-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-toastr/toastr-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-toastr/toastr.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap/css/bootstrap-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap/css/bootstrap-rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/bootstrap/css/bootstrap-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/datatables/media/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/datatables/media/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/datatables/plugins/bootstrap/dataTables.bootstrap-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/dropzone/css/dropzone-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/font-awesome/less/spinning.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/font-awesome/scss/_spinning.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/gritter/css/jquery.gritter-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/ion.rangeslider/css/ion.rangeSlider.Metronic-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/css/ui.jqgrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-bg1251.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-dk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-hr1250.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-kr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-mne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-sr-latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-ua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/i18n/grid.locale-vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/jquery.jqGrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/js/jquery.jqGrid.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/grid.addons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/grid.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/grid.postext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/grid.setcolumns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/jquery.contextmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/jquery.searchFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/jquery.tablednd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/searchFilter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/ui.multiselect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jqgrid/plugins/ui.multiselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-knob/js/jquery.knob-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-multi-select/css/multi-select-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-nestable/jquery.nestable-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-tags-input/jquery.tagsinput-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/animated-overlay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/jquery-ui-1.10.3.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/jquery-ui-1.10.3.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/jquery-ui-1.10.3.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/jquery.ui.slider-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-ui/jquery.ui.slider-rtl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-validation/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-validation/js/lib/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-validation/js/lib/jquery.mockjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-validation/lib/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/jquery-validation/lib/jquery.mockjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/pace/themes/pace-theme-barber-shop-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/pace/themes/pace-theme-big-counter-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/pace/themes/pace-theme-flash-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assetss/global/plugins/pace/themes/pace-theme-minimal-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CompanyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CompanyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DashboardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DashboardController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DepartmentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DepartmentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ReportsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ReportsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/VisitorController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/VisitorController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Visitor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Visitor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_04_27_042042_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_04_27_042042_create_employees_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/demo/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/demo/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/darkblue.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/darkblue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/grey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/light2.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/themes/light2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/scripts/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/scripts/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout/scripts/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/scripts/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout2/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/grey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/themes/light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/blue-hoki.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/blue-hoki.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/blue-steel.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/blue-steel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/green-haze.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/green-haze.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/purple-plum.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/purple-plum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/purple-studio.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/purple-studio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/red-intense.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/red-intense.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/red-sunglo.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/red-sunglo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/yellow-crusta.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/yellow-crusta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/yellow-orange.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout3/css/themes/yellow-orange.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout4/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout4/css/themes/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/themes/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout4/css/themes/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout4/css/themes/light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout5/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout/css/custom-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout5/css/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout5/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout5/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout5/scripts/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout5/scripts/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout6/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout2/css/custom-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout6/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout6/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout6/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout6/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout7/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout7/css/custom-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout7/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/layout7/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/layout7/img/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/about-us.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/about-us.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/coming-soon.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/coming-soon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/error.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/error.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/image-crop.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/image-crop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/inbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/inbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/invoice.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/invoice.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/lock.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/lock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/lock2.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/lock2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/login-soft.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login-soft.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/login2.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/login3.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/login3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/pricing-tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/pricing-tables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/profile-old.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/profile-old.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/tasks.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/tasks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/timeline-old.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/timeline-old.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/timeline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/css/todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/css/todo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/scripts/table-advanced.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/scripts/table-advanced.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/scripts/table-ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/scripts/table-ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assetss/admin/pages/scripts/table-managed.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assetss/admin/pages/scripts/table-managed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/allvisitors.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/allvisitors.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/custom/customer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/custom/customer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/custom/departmenties.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/custom/departmenties.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/custom/employee.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/custom/employee.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/custom/employees.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/custom/employees.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/masterc.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/masterc.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/newvisitor.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/newvisitor.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/AppTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/AppTest.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/cartalyst/support" />
+      <path value="$PROJECT_DIR$/vendor/cartalyst/sentinel" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TpHUMufPr9waFuaFQCB1UGLlK8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/eventimg" />
+      <recent name="$PROJECT_DIR$/resources/views/admin" />
+      <recent name="$PROJECT_DIR$/resources/views/custom" />
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/dist" />
+      <recent name="$PROJECT_DIR$/public/images/visitor" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.AppTest">
+    <configuration name="AppTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\AppTest" file="$PROJECT_DIR$/tests/Unit/AppTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testBasicTest1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\AppTest" file="$PROJECT_DIR$/tests/Unit/AppTest.php" method="testBasicTest1" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testuserisadmin" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\AppTest" file="$PROJECT_DIR$/tests/Unit/AppTest.php" method="testuserisadmin" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testuserisnotadmin" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\AppTest" file="$PROJECT_DIR$/tests/Unit/AppTest.php" method="testuserisnotadmin" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testusernotempty" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\AppTest" file="$PROJECT_DIR$/tests/Unit/AppTest.php" method="testusernotempty" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.AppTest" />
+        <item itemvalue="PHPUnit.AppTest.testBasicTest1" />
+        <item itemvalue="PHPUnit.AppTest.testuserisnotadmin" />
+        <item itemvalue="PHPUnit.AppTest.testuserisadmin" />
+        <item itemvalue="PHPUnit.AppTest.testusernotempty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4a17966-c46c-4b2d-a03f-0ccb5419a910" name="Default Changelist" comment="" />
+      <created>1574150131142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574150131142</updated>
+      <workItem from="1574150132364" duration="33642000" />
+      <workItem from="1575283066746" duration="2968000" />
+      <workItem from="1575629009844" duration="599000" />
+      <workItem from="1576492342656" duration="613000" />
+      <workItem from="1576773531018" duration="212000" />
+      <workItem from="1577290097274" duration="893000" />
+      <workItem from="1579433499701" duration="11347000" />
+      <workItem from="1581472650241" duration="41376000" />
+      <workItem from="1586148296595" duration="5000" />
+      <workItem from="1587330192227" duration="7660000" />
+      <workItem from="1587597647652" duration="11685000" />
+      <workItem from="1587852818502" duration="53953000" />
+      <workItem from="1588412567433" duration="23020000" />
+      <workItem from="1588628799226" duration="62626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
